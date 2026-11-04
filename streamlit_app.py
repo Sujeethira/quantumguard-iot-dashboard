@@ -3,12 +3,12 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(
-    page_title="QuantumGuard Dashboard",
+    page_title="QGuard Dashboard",
     page_icon="🛡️",
     layout="wide"
 )
 
-st.title("🛡️ QuantumGuard")
+st.title("🛡️ QGuard")
 st.subheader("AI-Based IoT Security and Quantum Optimization")
 st.caption("Artificial sensor data | Simulation dashboard")
 
